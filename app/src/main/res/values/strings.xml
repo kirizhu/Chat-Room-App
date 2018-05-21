@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ChatRoomApp</string>
+    <string name="type_in_chat_room_name">Type in chat room name</string>
+    <string name="type_in_message">Type in message</string>
+    <string name="send">Send</string>
+    <string name="create_room">Create Room</string>
+    <string name="enter">Enter</string>
+    <string name="WelcomeInfo">This app allows the user to create and enter different chat rooms where he/she can chat anonymously with other users</string>
+    <string name="welcome">Welcome to ChatRoomApp</string>
+</resources>

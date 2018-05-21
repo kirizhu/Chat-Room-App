@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "325012766211",
+    "firebase_url": "https://chatroomapp-fd35b.firebaseio.com",
+    "project_id": "chatroomapp-fd35b",
+    "storage_bucket": "chatroomapp-fd35b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325012766211:android:1ad3a61cef6a5a15",
+        "android_client_info": {
+          "package_name": "com.example.kiribaty.chatroomapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325012766211-jigvp6htimafv1v84hplpqocohpmkooo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kiribaty.chatroomapp",
+            "certificate_hash": "a639a27bf2ddf4fddf163b0c0ec2d4cccfa3b508"
+          }
+        },
+        {
+          "client_id": "325012766211-csmfdeau2c468a77pb0v968msg5pui2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5BQycdrcNDgqHPdn6xMG2q5KIrhVFGas"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325012766211-csmfdeau2c468a77pb0v968msg5pui2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
